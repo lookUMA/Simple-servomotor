@@ -20,4 +20,5 @@ PCB设计
 
 你们的支持是我持续创作和分享的动力。
 
-![67A9F56796E92A39A04A1D778770C546](https://github.com/lookUMA/Simple-servomotor/assets/37033755/c791d497-0fbe-4de6-baa3-b450e438fad8)
+![QQ图片20230615153544](https://github.com/lookUMA/Simple-servomotor/assets/37033755/a7b753c4-ae24-4616-b6a7-c120edd094df)
+
